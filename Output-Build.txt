@@ -1,0 +1,6 @@
+﻿Build started at 01:41 م...
+1>------ Build started: Project: MyFirstC++App, Configuration: Debug x64 ------
+1>  MyFirstC++App.cpp
+1>  MyFirstC++App.vcxproj -> M:\C++\MyFirstC++App\x64\Debug\MyFirstC++App.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 01:41 م and took 01.400 seconds ==========
